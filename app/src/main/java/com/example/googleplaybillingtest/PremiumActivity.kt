@@ -35,6 +35,7 @@ class PremiumActivity : AppCompatActivity() {
 
     private fun initializeBillingClient() {
         val nonConsumableIds: MutableList<String> = ArrayList()
+        // product ids and license key has to defined in Play Console
         nonConsumableIds.add(getString(R.string.remove_ads_play_console_id))
 
         billingConnector = BillingConnector(
