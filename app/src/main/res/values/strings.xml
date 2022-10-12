@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GooglePlayBillingTest</string>
+    <string name="remove_ads_summary">Enjoy an ad-free experience while helping support development</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="remove_ads_play_console_id">remove_ads</string>
+    <string name="license_key_play_console">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg+YRCTFHDwB5Xg+4uLAqjSjVz73bFycGzQoYY5At6RoK/T+4H7aY11VTPb5sf+KOWQ3Gm3x13XyurfkpMniDJ3J44BDTZhl7BfvLH6UDvzU4mnkEkNOQB89sN27wj5Xocx1TflsWwixBnYF6ZjeexlONNnkl7L35pCJPpt7m/iFzjweCkhBwloXkATK2psAEFCVZ0gOQ43dEv5iuMkX0+aFuPOGy+M/voGBToxzFnoJA/ykFW3AbK4YhKvo2a2msYS0/J6JpGND1zJb/P2YPA2FWzaiZ8NbbtZYcRgKI1v3QUnu1youDNujksotfQSBKIYfdyrcCc6v+ntFz891JywIDAQAB</string>
+    <string name="purchase">Purchase</string>
+</resources>
